@@ -49,3 +49,4 @@ public class ControlUsuarios {
         sc.close();
     }
 }
+//Nuevo código para el control de usuarios, se ha agregado una validación para la calificación y se ha mejorado la presentación de los resultados.
